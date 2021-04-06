@@ -8,7 +8,7 @@ subtitle: '好呀好呀好呀'
 description: ''
 keywords:
 author: Gigi Zhao
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,4 +105,10 @@ deploy:
   type: git
   repo: git@github.com:gigizhaoo/gigizhaoo.github.io.git
   branch: gh-pages
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
