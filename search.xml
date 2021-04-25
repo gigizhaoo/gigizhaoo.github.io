@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/03/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>introduce</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>tool-share</title>
+    <url>/2021/04/23/tool-share/</url>
+    <content><![CDATA[<h2 id="工具分享"><a href="#工具分享" class="headerlink" title="工具分享"></a>工具分享</h2><ul>
+<li><a href="https://www.json.cn/">JSON在线解析及格式化验证</a></li>
+<li><a href="https://keycode.info/">键盘事件码</a></li>
+<li><a href="https://unbug.github.io/codelf/">命名辅助</a></li>
+<li><a href="https://regexper.com/#">可视化正则表达式</a></li>
+<li><a href="https://gitmoji.dev/">gitemoji指南1</a></li>
+<li><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">gitemoji指南2</a></li>
+<li><a href="https://excalidraw.com/">手绘版流程图</a></li>
+</ul>
+<img align="center" width="100%" src="/images/tool-share/7.png">]]></content>
+      <tags>
+        <tag>Tool</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>url2display</title>
+    <url>/2021/04/13/url2display/</url>
+    <content><![CDATA[<h3 id="从浏览器输入URL到页面展示经历了什么？"><a href="#从浏览器输入URL到页面展示经历了什么？" class="headerlink" title="从浏览器输入URL到页面展示经历了什么？"></a>从浏览器输入URL到页面展示经历了什么？</h3><h3 id="怎样回答才算具体？"><a href="#怎样回答才算具体？" class="headerlink" title="怎样回答才算具体？"></a>怎样回答才算具体？</h3>]]></content>
+  </entry>
+</search>
